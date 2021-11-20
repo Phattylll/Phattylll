@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center"> Call Me ปุ๋งๆ 🤔 </h1>
 
-<!--
-**Phattylll/Phattylll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+  <div style="align:center"> 
+   <h1 align="center"> 
+     <img src= https://github-readme-stats.vercel.app/api?username=Phattylll&theme=radical&show_icons=true > </h1>
+  </div>
+ <h2 align="center"> -------------------- </h2>
+  <div style="align:center"> 
+   <h1 align="center"> 
+<!--      <img src=https://cdn.vox-cdn.com/thumbor/EaUuzIdnUGXAs_LokdLgtdrJZCY=/0x0:420x314/1400x1050/filters:focal(136x115:202x181):format(gif)/cdn.vox-   cdn.com/uploads/chorus_image/image/55279403/tenor.0.gif width=30%>  -->
+  <img src=https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif >
+  <img src=https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif >
+  <img src=https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif > </h1>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2 align="center"> -------------------- </h2>
+</p>
